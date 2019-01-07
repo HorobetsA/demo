@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "demo"
+    },
+    "jhipsterVersion": "5.7.2",
+    "applicationType": "monolith",
+    "baseName": "jhipster",
+    "packageName": "demo",
+    "packageFolder": "demo",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YzRhNzAxZmY2YWM4YTM3YWRmNjhmNzg3MGVmOWI0MWI1ZWUwMTk3MmVmNDQwNWUwZmZjM2E2MmY0MmE3ZDRjYjNiYWViNDY5NjhjOWM1MTc1YzAyNTczMmEyYjEzMTJmOGU3NTc0NTQ4MWM0MzJkYjUwOGY0NjI4NWNkYjY4ZWM=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
